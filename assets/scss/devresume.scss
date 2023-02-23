@@ -90,7 +90,7 @@ a.theme-link {
 }
 
 .resume-section-heading {
-	position: absolute;
+	position: relative;
 	padding-left: 1rem;
 	font-size: 1.125rem;
 	letter-spacing: 0.15rem;
@@ -101,7 +101,7 @@ a.theme-link {
 	    width: 5px;
 	    height: 100%;
 	    background: $theme-color-primary;
-	    position: relative;
+	    position: absolute;
 	    left: 0;
 	    top: 0;
    }
